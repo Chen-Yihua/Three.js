@@ -1,0 +1,11 @@
+Model Information:
+* title:	Evil Neon Sign
+* source:	https://sketchfab.com/3d-models/evil-neon-sign-a3bec7e6c3c94c4dbd371e860e2f96af
+* author:	daysena (https://sketchfab.com/daysena)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Evil Neon Sign" (https://sketchfab.com/3d-models/evil-neon-sign-a3bec7e6c3c94c4dbd371e860e2f96af) by daysena (https://sketchfab.com/daysena) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

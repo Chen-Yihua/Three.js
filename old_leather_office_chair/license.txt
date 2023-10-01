@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old leather office chair
+* source:	https://sketchfab.com/3d-models/old-leather-office-chair-5f2076e080cd48a583ee66f0ccb52b88
+* author:	Timothy Ahene (https://sketchfab.com/timothyahene)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old leather office chair" (https://sketchfab.com/3d-models/old-leather-office-chair-5f2076e080cd48a583ee66f0ccb52b88) by Timothy Ahene (https://sketchfab.com/timothyahene) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
