@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stage Wedge Game Asset
+* source:	https://sketchfab.com/3d-models/stage-wedge-game-asset-ae2e02709dfe4593be6e878267b7d32d
+* author:	Liam3D (https://sketchfab.com/liamch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stage Wedge Game Asset" (https://sketchfab.com/3d-models/stage-wedge-game-asset-ae2e02709dfe4593be6e878267b7d32d) by Liam3D (https://sketchfab.com/liamch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

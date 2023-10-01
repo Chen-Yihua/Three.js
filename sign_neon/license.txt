@@ -1,0 +1,11 @@
+Model Information:
+* title:	Neon Sign Letters and Elements
+* source:	https://sketchfab.com/3d-models/neon-sign-letters-and-elements-a5330a94391945a493a87b07d118fe02
+* author:	oparaskos (https://sketchfab.com/oparaskos)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Neon Sign Letters and Elements" (https://sketchfab.com/3d-models/neon-sign-letters-and-elements-a5330a94391945a493a87b07d118fe02) by oparaskos (https://sketchfab.com/oparaskos) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
