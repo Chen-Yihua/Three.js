@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cheburashka PC-2023
+* source:	https://sketchfab.com/3d-models/cheburashka-pc-2023-e8e174c0baed41e6b72df99493c9f615
+* author:	D3D_NoAI (https://sketchfab.com/d43dLink)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cheburashka PC-2023" (https://sketchfab.com/3d-models/cheburashka-pc-2023-e8e174c0baed41e6b72df99493c9f615) by D3D_NoAI (https://sketchfab.com/d43dLink) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
